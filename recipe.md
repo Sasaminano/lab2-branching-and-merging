@@ -1,7 +1,7 @@
 
 # Chocolate Raspberry Celebration Cake
 
-This recipe makes a three-layer celebration cake with a raspberry filling between each layer and chocolate frosting on the outside.
+This recipe makes a four-layer celebration cake with a raspberry filling between each layer and chocolate frosting on the outside.
 
 ## Cake Ingredients
 

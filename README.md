@@ -73,7 +73,7 @@ You should see that the changes you made are now in the `main` branch.
 
 ---
 
-- [ ] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
+- [X] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change, and then push your code.
     Check GitHub to ensure you can see your changes.
 
@@ -123,7 +123,7 @@ Now, you are almost ready to share your recipe with the remote!
 
 - [ ] **While still on the `task_3` branch**, push your code to your remote repository on GitHub.
 
-- [ ] Go to GitHub and you will see an option to make a pull request to the original repo. Make
+- [X] Go to GitHub and you will see an option to make a pull request to the original repo. Make
   a pull request and see that the PR shows up in the original repository that you forked.
 
 Since others will also be making pull requests, we won't *actually* accept any of them for now, but
